@@ -1,0 +1,5 @@
+[{"nombre":"Cafe","Precio":32.0,"cantidad":213,"codigo":"1111","categoria":"ASEO","codigoBarras":"123","valorTotal":6816.0},
+{"nombre":"Pastel","Precio":213.0,"cantidad":1,"codigo":"1112","categoria":"CALZADO","codigoBarras":"asd2","valorTotal":213.0},
+{"nombre":"Tinto","Precio":213.0,"cantidad":1,"codigo":"1113","categoria":"CALZADO","codigoBarras":"asd2","valorTotal":213.0},
+{"nombre":"Té","Precio":2.0,"cantidad":23,"codigo":"1114","categoria":"HOGAR","codigoBarras":"s","valorTotal":46.0},
+{"nombre":"FUA","Precio":765.0,"cantidad":2,"codigo":"1115","categoria":"ROPA","codigoBarras":"12","valorTotal":1530.0}]
